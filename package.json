@@ -1,0 +1,14 @@
+{
+  "name": "com.takayoshihagiwara.th-utils-ui",
+  "version": "1.0.0",
+  "displayName": "TH-Utils-UI",
+  "description": "This is utilities for UI",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "keywords": [
+    "UI"
+  ],
+  "author": {
+    "name": "Takayoshi Hagiwara"
+  }
+}
