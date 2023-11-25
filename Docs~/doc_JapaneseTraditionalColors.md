@@ -29,7 +29,7 @@ Namespace: TH.Utils.UI
 伝統色については同じ名前でも文献によって値が少し異なる場合があるため、ここで示しているものはおおよその色であり、一例です。
 基本的には[こちら](https://www.colordic.org/w)を参照し、異なる場合は一部[Wikipedia](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)を参照しています。
 
-（数が多いのでドキュメントを後回しにしています）
+**このドキュメントは作成途中です。**
 
 # Sub class
 全465色を、本スクリプトの著者が直感でおおまかな色に分類したものです。
